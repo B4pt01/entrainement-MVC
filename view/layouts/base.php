@@ -10,7 +10,9 @@
 </head>
 
 <body>
+    <?php require_once('view/layouts/menu.php'); ?>
     <?= $page_content; ?>
+    <script src="public/Javascript/menu.js"></script>
 </body>
 
 </html>
