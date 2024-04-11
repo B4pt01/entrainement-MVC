@@ -8,8 +8,8 @@
 
         <div class="hidden" id="mobileMenu">
             <ul>
-                <li><a href="#">Accueil</a></li>
-                <li><a href="#">Page1</a></li>
+                <li><a href="accueil">Accueil</a></li>
+                <li><a href="page1">Page1</a></li>
                 </li>
             </ul>
         </div>
